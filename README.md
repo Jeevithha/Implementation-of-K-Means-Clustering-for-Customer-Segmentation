@@ -66,6 +66,8 @@ plt.title("Customer Segments")
 ### Elbow Method Graph:
 ![241356609-c24c0019-3e36-46c5-9371-990de579961d](https://github.com/Jeevithha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123623197/c5bef1bf-2afd-47f7-9cae-b0069f455705)
 ### KMeans clusters:
+![241356760-6dcb359f-0af6-48c1-9f95-6bb2065cb831](https://github.com/Jeevithha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123623197/d3c143da-6608-4b61-8618-89bca41c873a)
+### Customer Segments Graph:
 ![241356717-53de6a5b-0333-4028-bdaf-3209e6592b45](https://github.com/Jeevithha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/123623197/c0d7d320-74a3-4a3b-9784-336cff470b46)
 
 ## Result:
